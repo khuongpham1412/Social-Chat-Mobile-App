@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_layout_50dp">50dp</dimen>
+    <dimen name="size_layout_70dp">70dp</dimen>
+    <dimen name="size_layout_100dp">100dp</dimen>
+    <dimen name="size_layout_200dp">200dp</dimen>
+    <dimen name="size_layout_250dp">250dp</dimen>
+    <dimen name="size_layout_300dp">300dp</dimen>
+
+
+    <dimen name="size_margin_10dp">10dp</dimen>
+    <dimen name="size_margin_15dp">15dp</dimen>
+    <dimen name="size_margin_16dp">16dp</dimen>
+    <dimen name="size_margin_17dp">17dp</dimen>
+    <dimen name="size_margin_20dp">20dp</dimen>
+    <dimen name="size_margin_25dp">25dp</dimen>
+    <dimen name="size_margin_40dp">40dp</dimen>
+    <dimen name="size_margin_60dp">60dp</dimen>
+    <dimen name="size_margin_80dp">80dp</dimen>
+
+    <dimen name="size_padding_10dp">10dp</dimen>
+    <dimen name="size_padding_13dp">13dp</dimen>
+    <dimen name="size_padding_15dp">15dp</dimen>
+    <dimen name="size_padding_20dp">20dp</dimen>
+    <dimen name="size_padding_50dp">50dp</dimen>
+
+    <dimen name="size_text_15sp">15sp</dimen>
+    <dimen name="size_text_17sp">17sp</dimen>
+    <dimen name="size_text_18sp">18sp</dimen>
+    <dimen name="size_text_20sp">20sp</dimen>
+    <dimen name="size_text_25sp">25sp</dimen>
+    <dimen name="size_text_30sp">30sp</dimen>
+    <dimen name="size_text_50sp">50sp</dimen>
+</resources>

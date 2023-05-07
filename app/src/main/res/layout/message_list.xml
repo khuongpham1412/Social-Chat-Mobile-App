@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginBottom="@dimen/size_margin_15dp"
+    android:id="@+id/Mess"
+    >
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgAvatar"
+        android:layout_width="@dimen/size_layout_70dp"
+        android:layout_height="@dimen/size_layout_70dp"
+        android:src="@drawable/tomioka"/>
+    <LinearLayout
+        android:padding="@dimen/size_padding_10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/username"
+            android:textSize="@dimen/size_text_25sp"
+            />
+        <TextView
+            android:id="@+id/tvMess"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/input_mess"
+            android:textSize="@dimen/size_text_17sp"
+            />
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable-v24/ic_home.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable-v24/ic_me.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable/clicked_btn.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable/clicked_post.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable/custom_btn.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable/custom_edit_text.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable/custom_post_status.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable/customer_btn.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable/unclicked_btn.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/drawable/unclicked_post.xml" value="0.19583333333333333" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/activity_conversation.xml" value="0.18333333333333332" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/activity_message_home.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/activity_register.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/activity_status.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/activity_status_rec_list.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/activity_user_fragment.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/friend_get_image.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/mess_friend.xml" value="0.16927083333333334" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/mess_user.xml" value="0.16927083333333334" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/message_list.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/newfeedsfragment.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/newsfeed_fragment.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/status_rec_list.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/user_fragment.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/user_send_image.xml" value="0.1796875" />
+        <entry key="..\:/Mobile/SocialChat/app/src/main/res/layout/users_list.xml" value="0.1796875" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/drawable/ic_my_pictures_foreground.xml" value="0.19635416666666666" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/drawable/ic_options_foreground.xml" value="0.19635416666666666" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/drawable/ic_save_foreground.xml" value="0.19635416666666666" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/activity_conversation.xml" value="0.16203703703703703" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/activity_home.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/activity_login.xml" value="0.16203703703703703" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/activity_main.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/activity_message_home.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/activity_register.xml" value="0.15462962962962962" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/friend_get_image.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/friend_get_video.xml" value="0.16614583333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/mess_friend.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/mess_user.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/message_list.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/newsfeed_fragment.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/status_rec_list.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/user_fragment.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/user_send_image.xml" value="0.18020833333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/user_send_video.xml" value="0.16614583333333333" />
+        <entry key="..\:/Nodejs/SocialChat/app/src/main/res/layout/users_list.xml" value="0.18020833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

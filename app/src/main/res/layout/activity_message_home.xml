@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:weightSum="5"
+    >
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recUserList"
+        android:paddingTop="@dimen/size_padding_20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recMessList"
+        android:layout_margin="@dimen/size_margin_20dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"/>
+
+</LinearLayout>

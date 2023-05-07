@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_gray">
+
+    <TextView
+        android:id="@+id/socialChat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/size_margin_80dp"
+        android:fontFamily="@font/regular"
+        android:text="@string/app_name"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_text_50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtTittle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_margin_80dp"
+        android:fontFamily="@font/regular"
+        android:text="@string/register"
+        android:textColor="@color/black"
+        android:textSize="@dimen/size_text_30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/socialChat" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/socialChat">
+        <EditText
+            android:id="@+id/etUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/size_margin_20dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_edit_text"
+            android:ems="10"
+            android:hint="@string/username"
+            android:inputType="textPersonName"
+            android:paddingStart="@dimen/size_padding_13dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/grey"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:ignore="MissingConstraints,RtlSymmetry" />
+        <EditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/txt_password"
+            android:inputType="textPassword"
+            android:layout_margin="@dimen/size_margin_20dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/etUsername"
+            android:background="@drawable/custom_edit_text"
+            android:paddingStart="@dimen/size_padding_13dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/grey"
+            tools:ignore="RtlSymmetry"
+            android:autofillHints="" />
+        <EditText
+            android:id="@+id/etName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/size_margin_20dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_edit_text"
+            android:ems="10"
+            android:hint="@string/txt_name"
+            android:inputType="textPersonName"
+            android:paddingStart="@dimen/size_padding_13dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/grey"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/etPassword"
+            tools:ignore="RtlSymmetry" />
+
+        <EditText
+            android:id="@+id/etAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/size_margin_20dp"
+            android:autofillHints=""
+            android:background="@drawable/custom_edit_text"
+            android:ems="10"
+            android:hint="@string/txt_address"
+            android:inputType="textPersonName"
+            android:paddingStart="@dimen/size_padding_13dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/grey"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/etName"
+            tools:ignore="RtlSymmetry" />
+
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/size_margin_60dp"
+            android:background="@drawable/custom_btn"
+            android:paddingStart="@dimen/size_padding_50dp"
+            android:paddingEnd="@dimen/size_padding_50dp"
+            android:text="@string/register"
+            android:textSize="@dimen/size_text_15sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/etAddress" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

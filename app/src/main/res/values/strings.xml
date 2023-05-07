@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SocialChat</string>
+    <string name="forgot">Forgot your login details?</string>
+    <string name="forgot_pass">Forgot your Password?</string>
+    <string name="register">Register</string>
+    <string name="txt_username">Enter Your Username</string>
+    <string name="txt_password">Enter Your Password</string>
+    <string name="txt_name">Enter Your Name</string>
+    <string name="txt_address">Enter Your Address</string>
+    <string name="btn_post_status">How are you feeling today?</string>
+    <string name="post">Post</string>
+    <string name="input_error_text">You cannot leave the information blank!</string>
+    <string name="username_password_error_text">Incorrect account or password!</string>
+    <string name="sign_in_subtitle">Sign In to your account</string>
+    <string name="btn_log_in">Log in</string>
+    <string name="username">Name</string>
+    <string name="input_mess">Message for you</string>
+    <string name="send_mess">Send</string>
+    <string name="des_img">TODO</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="content_image">content image</string>
+</resources>
